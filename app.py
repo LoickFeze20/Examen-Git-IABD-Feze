@@ -9,7 +9,7 @@ demo = gr.Interface(
     fn=greet,
     inputs="text",
     outputs="text",
-    title="Hello World - Recommandation de repas",
+    title="Hello Mr Fomekong - Recommandation de repas",
 )
 
 if __name__ == "__main__":
